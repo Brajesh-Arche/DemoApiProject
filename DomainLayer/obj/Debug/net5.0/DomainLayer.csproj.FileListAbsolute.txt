@@ -1,0 +1,15 @@
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.json
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.dev.json
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\refint\DomainLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\DomainLayer.genruntimeconfig.cache
+C:\ProjectDemo\ArcheProjectDemoApi\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll

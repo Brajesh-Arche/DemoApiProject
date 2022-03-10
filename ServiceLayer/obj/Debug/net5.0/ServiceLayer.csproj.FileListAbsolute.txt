@@ -1,0 +1,17 @@
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\refint\ServiceLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\ProjectDemo\ArcheProjectDemoApi\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete
