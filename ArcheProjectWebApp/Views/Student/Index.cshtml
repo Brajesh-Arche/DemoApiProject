@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ArcheProjectWebApp.Models.StudentViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<p><a asp-action="Create" class="btn btn-primary"> Add New</a></p>
+<table class="table">
+    <thead class="table-hover">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(x=>x.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(x=>x.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(x=>x.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(x=>x.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(x=>x.Address)
+            </th>
+            <th>
+                @Html.DisplayName("Action")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(x=>item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(x=>item.Address)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit","Edit",new{ id=item.Id}, htmlAttributes: new { @class = "btn btn-warning" }) ||
+                    @Html.ActionLink("Delete","Delete",new{ id=item.Id}, htmlAttributes: new { @class = "btn btn-warning" })
+                </td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>
