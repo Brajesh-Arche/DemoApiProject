@@ -91,7 +91,7 @@ namespace ArcheProjectWebApp.Controllers
                 str.Close();
                 MailText = MailText.Replace("[newusername]", EmailId);
                 MailMessage mail = new MailMessage();
-                mail.From = new MailAddress("noreply@archesoftronix.com");
+                mail.From = new MailAddress("yourmail@archesoftronix.com");
                 mail.To.Add(new MailAddress(EmailId));
                 mail.Subject = "test";
                 var lnkHref = "<a href='" + Url.Action("ResetPassword", "Account", new { Resetcode = ResetCode, email = EmailId }, "https") + "'>Reset Password</a>";
@@ -99,11 +99,11 @@ namespace ArcheProjectWebApp.Controllers
                 mail.Body = MailText;
                 mail.IsBodyHtml = true;
                 SmtpClient smtp = new SmtpClient();
-                smtp.Host = "mail1.archesoftronix.com";
-                smtp.Port = 25;
+                smtp.Host = "your.host.com";
+                smtp.Port = portnumber;
                 smtp.EnableSsl = false;
                 smtp.UseDefaultCredentials = true;
-                smtp.Credentials = new System.Net.NetworkCredential("noreply@archesoftronix.com", "N0123ply", "");
+                smtp.Credentials = new System.Net.NetworkCredential("Yourmail@archesoftronix.com", "yourpassword", "");
                 //smtp.Connect(_appSettings.SmtpHost, _appSettings.SmtpPort, SecureSocketOptions.StartTls);
                 //smtp.Authenticate(_appSettings.SmtpUser, _appSettings.SmtpPass);
                 smtp.Send(mail);
