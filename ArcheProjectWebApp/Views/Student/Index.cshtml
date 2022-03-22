@@ -5,6 +5,14 @@
 }
 
 <h1>Index</h1>
+@*<form asp-action="WordFileUpload">
+<div>
+    <input type="file" value="Upload File" /> <br />
+    <input type="submit" value="Upload" class="btn btn-primary" />
+</div>
+</form>*@
+<p><a asp-action="WordFileUpload" class="btn btn-primary"> Read Record</a> | <a asp-action="GenerateDocx" class="btn btn-warning">Generate File</a>
+<br />
 <p><a asp-action="Create" class="btn btn-primary"> Add New</a></p>
 <table class="table">
     <thead class="table-hover">
@@ -51,7 +59,7 @@
                 </td>
                 <td>
                     @Html.ActionLink("Edit","Edit",new{ id=item.Id}, htmlAttributes: new { @class = "btn btn-warning" }) ||
-                    @Html.ActionLink("Delete","Delete",new{ id=item.Id}, htmlAttributes: new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Delete","Delete",new{ id=item.Id}, htmlAttributes: new { @class = "btn btn-danger" })
                 </td>
                 <td></td>
             </tr>

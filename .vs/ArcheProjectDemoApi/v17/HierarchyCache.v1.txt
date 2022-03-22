@@ -1,0 +1,329 @@
+﻿++Solution 'ArcheProjectDemoApi' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:ArcheProjectDemoApi.sln
+++ArcheProjectDemoApi
+i:{00000000-0000-0000-0000-000000000000}:ArcheProjectDemoApi
+++Connected Services 
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1661
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1663
+++Dependencies
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1659
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:>953
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>952
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:>951
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1660
+++Properties
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\properties\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\properties\
+++Controllers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\controllers\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\controllers\
+++FileUploadController.cs
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\controllers\fileuploadcontroller.cs
+++StudentController.cs
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\controllers\studentcontroller.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\controllers\studentcontroller.cs
+++appsettings.Development.json
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\appsettings.development.json
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\appsettings.development.json
+++appsettings.json
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\appsettings.json
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\appsettings.json
+++Program.cs
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\program.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\program.cs
+++Startup.cs
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\startup.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\startup.cs
+++No service dependencies discovered
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1662
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1664
+++Analyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:analyzers
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:analyzers
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:analyzers
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:analyzers
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:analyzers
+++Frameworks
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:frameworks
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:frameworks
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:frameworks
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:frameworks
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:frameworks
+++Packages
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:packages
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:packages
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:packages
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:packages
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:packages
+++Projects
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:projects
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:projects
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:projects
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:projects
+++launchSettings.json
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\properties\launchsettings.json
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\properties\launchsettings.json
+++Microsoft.AspNetCore.Analyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\microsoft.aspnetcore.app
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\archeprojectdemoapi\microsoft.netcore.app
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\projectdemo\archeprojectdemoapi\domainlayer\microsoft.netcore.app
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\microsoft.netcore.app
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\projectdemo\archeprojectdemoapi\servicelayer\microsoft.netcore.app
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.15)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1704
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:>1697
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>1719
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:>1732
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1828
+++Microsoft.EntityFrameworkCore.Design (5.0.15)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1706
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:>1700
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>1721
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1829
+++Microsoft.EntityFrameworkCore.Relational (5.0.15)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1708
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:>1702
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.15)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1705
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>1720
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>2717
+++Microsoft.EntityFrameworkCore.Tools (5.0.15)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1709
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>1722
+++Swashbuckle.AspNetCore (5.6.3)
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>1707
+++RepositoryLayer
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\repositorylayer\bin\debug\net5.0\repositorylayer.dll
+i:{00000000-0000-0000-0000-000000000000}:RepositoryLayer
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\projectdemo\archeprojectdemoapi\repositorylayer\bin\debug\net5.0\repositorylayer.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\repositorylayer\repositorylayer.csproj
+++ServiceLayer
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:c:\projectdemo\archeprojectdemoapi\servicelayer\bin\debug\net5.0\servicelayer.dll
+i:{00000000-0000-0000-0000-000000000000}:ServiceLayer
+++DomainLayer
+i:{00000000-0000-0000-0000-000000000000}:DomainLayer
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\domainlayer\bin\debug\net5.0\domainlayer.dll
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\projectdemo\archeprojectdemoapi\domainlayer\bin\debug\net5.0\domainlayer.dll
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\domainlayer\domainlayer.csproj
+++BaseEntity.cs
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\projectdemo\archeprojectdemoapi\domainlayer\baseentity.cs
+++FileUpload.cs
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\projectdemo\archeprojectdemoapi\domainlayer\fileupload.cs
+++Student.cs
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\projectdemo\archeprojectdemoapi\domainlayer\student.cs
+++StudentMap.cs
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:c:\projectdemo\archeprojectdemoapi\domainlayer\studentmap.cs
+++Migrations
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\
+++ApplicationContext.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\applicationcontext.cs
+++IRepository.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\irepository.cs
+++Repository.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\repository.cs
+++20220310085209_CreateStudentTable.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\20220310085209_createstudenttable.cs
+++20220314102910_CreateFileTable.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\20220314102910_createfiletable.cs
+++ApplicationContextModelSnapshot.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\applicationcontextmodelsnapshot.cs
+++20220310085209_CreateStudentTable.Designer.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\20220310085209_createstudenttable.designer.cs
+++20220314102910_CreateFileTable.Designer.cs
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:c:\projectdemo\archeprojectdemoapi\repositorylayer\migrations\20220314102910_createfiletable.designer.cs
+++IService.cs
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\projectdemo\archeprojectdemoapi\servicelayer\iservice.cs
+++Service.cs
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:c:\projectdemo\archeprojectdemoapi\servicelayer\service.cs
+++ArcheProjectWebApp
+i:{00000000-0000-0000-0000-000000000000}:ArcheProjectWebApp
+++wwwroot
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\
+++HomeController.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\controllers\homecontroller.cs
+++Files
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\files\
+++HariTest.docx
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\files\haritest.docx
+++Helper
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\helper\
+++Models
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\models\
+++ErrorViewModel.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\models\errorviewmodel.cs
+++RecordViewModel.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\models\recordviewmodel.cs
+++StudentViewModel.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\models\studentviewmodel.cs
+++Views
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\
+++css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\css\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\js\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\
+++favicon.ico
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\favicon.ico
+++Helper.cs
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\helper\helper.cs
+++Home
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\home\
+++Shared
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\shared\
+++Student
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\student\
+++_ViewImports.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\_viewstart.cshtml
+++Microsoft.CodeAnalysis.Analyzers
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\users\dell\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\users\dell\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++DocumentFormat.OpenXml (2.16.0)
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1678
+++Microsoft.AspNet.WebApi.Client (5.2.7)
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1676
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.14)
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1675
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>1677
+++site.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\css\site.css
+++site.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\js\site.js
+++bootstrap
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\
+++jquery
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\
+++jquery-validation
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\home\index.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\student\index.cshtml
+++Privacy.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\shared\error.cshtml
+++Create.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\student\create.cshtml
+++Edit.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\student\edit.cshtml
+++WordFileUpload.cshtml
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\views\student\wordfileupload.cshtml
+++dist
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\dist\
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\license.txt
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:c:\projectdemo\archeprojectdemoapi\archeprojectwebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{5056aaed-3eca-4e9a-8a0d-6f44b4b436f0}:>2684
+i:{f1f0fb40-f86f-4b38-bc29-79b32fe5e4e9}:>2685
+i:{d91ed626-66bb-4531-8b4a-fc8c31eb7773}:>2686
+i:{3b2e9416-e4ed-479b-b1bc-41d7dcb14445}:>2687
+i:{9434c7e7-ac2f-4d40-b22d-8074e6fa40a4}:>2688
+++Microsoft.AspNet.Mvc (5.2.7)
+++Microsoft.AspNet.Mvc (5.0.0)

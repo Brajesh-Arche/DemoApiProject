@@ -1,0 +1,24 @@
+﻿@model System.Data.DataTable
+@using System.Data
+
+@{
+    ViewData["Title"] = "WordFileUpload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Records</h3>
+<br />
+<body>
+    <table>
+        @foreach (DataRow row in Model.Rows)
+                            {
+                                <tr>
+                                    @foreach (DataColumn col in Model.Columns)
+                                    {
+                                        <td>@row[col.ColumnName]</td>
+                                    }
+                                </tr>
+                            }
+    </table>
+   
+</body>

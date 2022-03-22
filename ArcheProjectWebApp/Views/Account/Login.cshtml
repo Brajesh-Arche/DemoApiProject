@@ -1,0 +1,35 @@
+﻿@model ArcheProjectWebApp.Models.UserLogin
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Login</h3>
+<div style="color:red">@ViewBag.Message</div>
+<form asp-action="Login" asp-controller="Account" method="post">
+   
+        <div class="form-group">
+            <label asp-for="UserName" class="control-label"></label>
+            <input asp-for="UserName" class="control-label" />
+            <span asp-validation-for="UserName" class="control-label"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="control-label" />
+            <span asp-validation-for="Password" class="control-label"></span>
+        </div>
+        @*<div class="form-group">
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" class="control-label" />
+            <span asp-validation-for="ConfirmPassword" class="control-label"></span>
+        </div>*@
+        <div>
+            <input type="submit" class="btn btn-primary" value="Login" />
+            <a asp-action="SignUp" asp-controller="Account" class="btn btn-success">Sign Up</a>
+            <a asp-action="ForgetPassword" asp-controller="Account" class="btn btn-success">Forget Password?</a>
+            @*<input type="reset" class="btn btn-danger" value="Cancel" />*@
+        </div>
+    @*</div>*@
+</form>
+
+

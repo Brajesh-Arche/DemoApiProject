@@ -18,6 +18,33 @@ namespace RepositoryLayer.Migrations
                 .HasAnnotation("ProductVersion", "5.0.15")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("DomainLayer.FileUpload", b =>
+                {
+                    b.Property<int>("RecordId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FamilyMobileNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FriendMobileNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SelfMobileNomber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("RecordId");
+
+                    b.ToTable("Wordfiles");
+                });
+
             modelBuilder.Entity("DomainLayer.Student", b =>
                 {
                     b.Property<int>("Id")

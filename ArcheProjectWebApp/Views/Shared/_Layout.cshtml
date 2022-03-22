@@ -24,7 +24,25 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                    </ul>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="ChangePassword">Change Password</a>
+                            </li>
+                          @if (Context.Request.Cookies["UserName"]!=null)
+                           {
+                             <li class="nav-item">
+                                <span class="navbar-text text-dark">Dear-@Context.Request.Cookies["UserName"].ToString()</span>
+                                </li>
+                             <li class="nav-item">
+                                 <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                                 </li>
+                           }
+                           else
+                           {
+                                <li class="nav-item">
+                                   <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                                    </li>
+                           }
+                        </ul>
                 </div>
             </div>
         </nav>

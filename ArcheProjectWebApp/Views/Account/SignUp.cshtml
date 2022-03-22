@@ -1,0 +1,36 @@
+﻿@model ArcheProjectWebApp.Models.UserLogin
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>SignUp</h3>
+<form asp-action="SignUp" asp-controller="Account" method="post">
+   @* <div class="form-control">*@
+        <div class="form-group">
+            <label asp-for="UserName" class="control-label"></label>
+            <input asp-for="UserName" class="control-label" />
+            <span asp-validation-for="UserName" class="control-label alert-danger"></span>
+        </div>
+         <div class="form-group">
+            <label asp-for="EmailId" class="control-label"></label>
+            <input asp-for="EmailId" class="control-label" />
+            <span asp-validation-for="EmailId" class="control-label alert-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="control-label" />
+            <span asp-validation-for="Password" class="control-label alert-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" class="control-label" />
+            <span asp-validation-for="ConfirmPassword" class="control-label alert-danger"></span>
+        </div>
+        <div>
+            <input type="submit" class="btn btn-primary" value="SignUp" />
+            <a asp-action="Login" asp-controller="Account" class="btn btn-success">Login</a>
+            @*<input type="reset" class="btn btn-danger" value="Cancel" />*@
+        </div>
+    @*</div>*@
+</form>

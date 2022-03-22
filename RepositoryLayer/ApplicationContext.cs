@@ -1,4 +1,5 @@
-﻿using DomainLayer;
+﻿
+using DomainLayer;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace RepositoryLayer
 {
-    public class ApplicationContext:DbContext
+    public class ApplicationContext : DbContext
     {
         public ApplicationContext(DbContextOptions<ApplicationContext>options):base(options)
         {
@@ -19,5 +20,7 @@ namespace RepositoryLayer
             builder.ApplyConfiguration(new StudentMap());
             base.OnModelCreating(builder);
         }
+        public virtual DbSet<FileUpload> Wordfiles { get; set; }
+        //public virtual DbSet<UserLogin> Users { get; set; }
     }
 }
